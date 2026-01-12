@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-05-31 16:29:56">
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value="Data policy for Human Resources - Europe knowledge base">f30370019f22120047a2d126c42e7025</data_policy>
+<description>Human Resources Knowledge base for the UK</description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>true</enable_socialqa>
+<icon/>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order/>
+<owner display_value="Ramon Amaral">0e826bf03710200044e0bfc8bcbe5d7c</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-06-01 21:10:38</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>370330019f22120047a2d126c42e70eb</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 19:22:03</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>Human Resources Knowledge - UK</title>
+<workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+</kb_knowledge_base>
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value="Data policy for Human Resources Knowledge - US knowledge base">b30370019f22120047a2d126c42e7025</data_policy>
+<description>
+		Human Resources Knowledge Documents. United States Specific
+		</description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>true</enable_socialqa>
+<icon/>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order/>
+<owner display_value="Reyna Bangle">92826bf03710200044e0bfc8bcbe5da0</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2015-06-02 00:13:03</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>770330019f22120047a2d126c42e70eb</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 19:28:32</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>Human Resources Knowledge - US</title>
+<workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+</kb_knowledge_base>
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value=""/>
+<description>Human Resources articles, policies, and blogs</description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>true</enable_socialqa>
+<icon/>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order/>
+<owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-10-28 17:45:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bb0370019f22120047a2d126c42e7073</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 19:29:32</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>Human Resources General Knowledge</title>
+<workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+</kb_knowledge_base>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes/>
+<compressed>true</compressed>
+<content_type>image/png</content_type>
+<file_name>icon</file_name>
+<hash/>
+<image_height/>
+<image_width/>
+<size_bytes>1928</size_bytes>
+<size_compressed>1665</size_compressed>
+<state/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-11-12 18:45:32</sys_created_on>
+<sys_id>fb0370019f22120047a2d126c42e7073</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2014-11-12 18:45:32</sys_updated_on>
+<table_name>ZZ_YYkb_knowledge_base</table_name>
+<table_sys_id>bb0370019f22120047a2d126c42e7073</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAAAA==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="icon" sys_id="fb0370019f22120047a2d126c42e7073">fb0370019f22120047a2d126c42e7073</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-09-16 08:22:24</sys_created_on>
+<sys_id>3f0370019f22120047a2d126c42e7073</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>6wzwc+flkuJiYGDg9fRwCQLSqiDMwQYkj85TYAZSkiWuESXB+Wkl5YlFqQyOKflJqQqeuYnpqUGpiSmVhSdTbRgYmJUzQyJKInx9rJLzc/USQWr0KnILGEDAxr6iIDE5O7VEISk1PTPPVun97v1KCpkptkrhpr4GvgXOqRmZHlVFqcFVfiHJVdnJlilK9nYKNhVWQANyU0sSFSpyc/KKrSpslcDmWgHZIGF9JQWwkpJsWyWIoyJ8AxSc84tSFUz1THWTDQxNFMwt9QxNDU0sDHUUjAwMjfUNjPUNjXUNjawMLK0MTRWgQAloW1FKmlWQixvULiDPVimjpKTASl+/vLxcr9xYL78oXd/Q0tJS38BI38hIF6hCt7gyrySxQjevWBlmgktqcXJRZkFJZn6eAoifmJRfWmKrpATzQm4B3Ni8YmgwAQNMvyKxQN9Qz0AfSaGvL36lublw1cUlQalp+FUXh1QWpOoHpRbnlxYlAyMuTRmkucDKuSg1sSS/KCQ/PwcWigEZ+SX5xRn5BQrOzgoavonJmXkgviZYg6+vlWdecUliXnKqp4utElBELzMzxcrAydjF0MncyNjEzcDQ0NXEwsLRzMLN0sDEzdHA0MDYAqbXJT+5NDc1rwSmNwWh1xinXlBagOhOLcosS01xK8rPVQD72SoTt1sMcLsFojcFt1sMcerVBzpGHy2mYULA5ANiwtMtkANP+al5wOReBEzXXhXvmBgYGLs8XRxDKm4l/fn/357Z7EGx8szGawndx2LWPPJJmbVdpOO/cOf0SVkW3KxytkxHJnOsOKl8PCFJdirLkVSHNSxH1gRsTHXYM6thH4NCX9Oj+w41/B27GyrklvZ5sTyydLBh7vi9IGmJyo5gBx5vG7aAzQ4XreYLuYcyffRROOcktJk9iVOhTHGB+JJnfALnnYSSW2Z5Tlw8pXEHY/cOYRFhptMXfrQ3WvReenF4mrNj2zMBydr9Hme/Pnm2b32Aj/ABJ2bj3o0dd9kflTO/XGEccWTRxiW6u6y8JLtvrG7s21c9RerAEQOOgwtKRFZevM50RC7lRjDzEeuMpyu0U5YdFt/Cs1I0wGbWsraUWUyh4uknC65YR7VdiVnCdjtjltIVrlKlw/PKFO65a7vvVdqc99to1jI251lMpXq5K25Eyu5TNO2Mud9v9qmte7HEyocrjjvkuLi6SzqdXaKx0J/xUZrCP44jxzVLJqgKPGcq1F3a94otiU9BjzHJjkv2K2dH9MK0oCcaFyKChAW2Mxrqt/b94jlSz6HJxGHAIJwQ1MxSujcJVFR5uvq5rHNKaAIA4Ul4jBcFAAA=
+		</data>
+<length>1328</length>
+<position>1</position>
+<sys_attachment display_value="icon" sys_id="fb0370019f22120047a2d126c42e7073">fb0370019f22120047a2d126c42e7073</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-09-16 08:22:24</sys_created_on>
+<sys_id>7f0370019f22120047a2d126c42e7073</sys_id>
+</sys_attachment_doc>
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Global">global</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value="Data policy for ServiceNow Administration Fundamentals knowledge base">42d2e490080e71107f440accf472278e</data_policy>
+<description>Resources for the class. </description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>false</enable_socialqa>
+<icon/>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order/>
+<owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-10-18 15:32:50</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c382e490080e71107f440accf4722757</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-10-18 15:33:10</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>ServiceNow Administration Fundamentals</title>
+<workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+</kb_knowledge_base>
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Global">global</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value=""/>
+<description>The ACME North America IT Service Desk Knowledge Base</description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>true</enable_socialqa>
+<icon/>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order>100</order>
+<owner display_value="Bernard Laboy">ee826bf03710200044e0bfc8bcbe5de6</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Approval Retire">3bf3fb92c30031000096dfdc64d3ae8c</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-07-31 11:52:38</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a7e8a78bff0221009b20ffffffffff17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2014-07-31 11:56:31</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>IT</title>
+<workflow display_value="Knowledge - Approval Publish">111b7b119f113100d8f8700c267fcfa0</workflow>
+</kb_knowledge_base>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes/>
+<compressed>true</compressed>
+<content_type>image/png</content_type>
+<file_name>icon</file_name>
+<hash/>
+<image_height/>
+<image_width/>
+<size_bytes>1880</size_bytes>
+<size_compressed>1611</size_compressed>
+<state/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-09-16 08:21:19</sys_created_on>
+<sys_id>306be633c3032100a0791f9c64d3ae54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2014-09-16 08:21:19</sys_updated_on>
+<table_name>ZZ_YYkb_knowledge_base</table_name>
+<table_sys_id>a7e8a78bff0221009b20ffffffffff17</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAAAA==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="icon" sys_id="306be633c3032100a0791f9c64d3ae54">306be633c3032100a0791f9c64d3ae54</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-09-16 08:21:19</sys_created_on>
+<sys_id>706be633c3032100a0791f9c64d3ae54</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>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
+		</data>
+<length>2136</length>
+<position>1</position>
+<sys_attachment display_value="icon" sys_id="306be633c3032100a0791f9c64d3ae54">306be633c3032100a0791f9c64d3ae54</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-09-16 08:21:19</sys_created_on>
+<sys_id>b06be633c3032100a0791f9c64d3ae54</sys_id>
+</sys_attachment_doc>
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Global">global</application>
+<approval_description/>
+<article_validity/>
+<card_color/>
+<data_policy display_value=""/>
+<description>Knowledge Base for 'Knowledge' users. Any User can read and User with Knowledge Role can contribute to this Knowledge Base</description>
+<disable_category_editing>false</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>false</enable_socialqa>
+<icon>4344683473302300b5c7ed64fbf6a7c6</icon>
+<kb_managers/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order>300</order>
+<owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2014-05-08 14:05:37</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path/>
+<sys_id>dfc19531bf2021003f07e2c1ac0739ab</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-27 01:27:32</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>Knowledge</title>
+<workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+</kb_knowledge_base>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>734003</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>image/svg+xml</content_type>
+<file_name>icon</file_name>
+<hash/>
+<image_height/>
+<image_width/>
+<size_bytes>1070</size_bytes>
+<size_compressed>475</size_compressed>
+<state/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-09-24 11:57:16</sys_created_on>
+<sys_id>4344683473302300b5c7ed64fbf6a7c6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-09-24 11:57:16</sys_updated_on>
+<table_name>ZZ_YYkb_knowledge_base</table_name>
+<table_sys_id>dfc19531bf2021003f07e2c1ac0739ab</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAAAA==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="icon" sys_id="4344683473302300b5c7ed64fbf6a7c6">4344683473302300b5c7ed64fbf6a7c6</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-09-24 11:57:16</sys_created_on>
+<sys_id>8344683473302300b5c7ed64fbf6a7c6</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>fVTfb6MwDP5XIu41mMT5QdloJfbEw+2Vh76copWWSrBNA5VN0/3v5wS29lg3JbFi+/NnY0fk/enAXrv2sV9HzTA83yTJOI4wKnh6OSQohEgIEbHTsR7vnl7XkWCCoYJUM8xA6WiT7+p9v8n74a2tN/DQ9rF83x/b9uaXdHZv9e3fPJmceTJBh+NAWtH39cBUnkxqfmDH3Tr67d7qlz8YsZ0bXPzounq2MYz+x8j4GkoS6tkNDXtoXU/fFOoh3Dq6t2C5FKCUk6BWPAjhV/ypnzRoU9At5UEENw+BKRhdkkS9DA/XwFFJCam8Sh/EtpPynMeBMrQninhSSspFdk37bPdnpr508dk1VVVcsoVyMx5itlHybUtokGi4BilLBSJzoDPagSHwlAGwMMdye+/RnIT9BnGd7qdSFFicEqa6EqVXi2ALQszLKxUaSJVbOj902UgL5qo79u7KAnp6UyAY7s/cMoJkVciLPgw/YuVEI7edfwqoSkRfI1Vh0CGsFA9iGtenTilWqli4aYUwX4P/vMyXmF2UaDjNUv3UJ0koy6lNBkt6zTI9d3l+jY0i9evMOlJjLDOwqy+Daeg9LoniaVzJYT70G9j8Aw/DvcEuBAAA</data>
+<length>620</length>
+<position>1</position>
+<sys_attachment display_value="icon" sys_id="4344683473302300b5c7ed64fbf6a7c6">4344683473302300b5c7ed64fbf6a7c6</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-09-24 11:57:16</sys_created_on>
+<sys_id>0744683473302300b5c7ed64fbf6a7c6</sys_id>
+</sys_attachment_doc>
+</unload>
